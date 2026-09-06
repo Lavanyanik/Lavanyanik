@@ -8,48 +8,50 @@ Building practical skills in **data analysis, visualization, machine learning, a
 
 Currently working as a **Software Engineer Intern**, building APIs, automation workflows, and AI-powered applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lavanya-lavanya-4a3103296/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/lavanyanikki720)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/lavanya-lavanya-4a3103296/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge\&logo=hackerrank)](https://www.hackerrank.com/profile/lavanyanikki720)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/lavanya15nikki/)
+
 </div>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Final-year B.Tech Computer Science Engineering student
-- 📊 Interested in **Data Analytics & Data Science**
-- 🐍 Working with **Python, Pandas, NumPy & SQL**
-- 📈 Building dashboards using **Power BI & Tableau**
-- 🤖 Exploring **Machine Learning & AI**
-- 💻 Gaining real-world experience as a **Software Engineer Intern**
+* 🎓 Final-year B.Tech Computer Science Engineering student
+* 📊 Interested in **Data Analytics & Data Science**
+* 🐍 Working with **Python, Pandas, NumPy & SQL**
+* 📈 Building dashboards using **Power BI & Tableau**
+* 🤖 Exploring **Machine Learning & AI**
+* 💻 Gaining real-world experience as a **Software Engineer Intern**
 
 ---
 
 ## 🚀 Building
 
-- 📊 Data analysis and visualization workflows
-- 🐼 SQL and Pandas problem-solving
-- 📈 Interactive dashboards and business insights
-- 🤖 Machine learning and predictive models
-- ⚙️ AI-powered applications and automation
+* 📊 Data analysis and visualization workflows
+* 🐼 SQL and Pandas problem-solving
+* 📈 Interactive dashboards and business insights
+* 🤖 Machine learning and predictive models
+* ⚙️ AI-powered applications and automation
 
 ---
 
 ## 🛠️ Stack
 
-**Languages**  
-Python · SQL 
+**Languages**
+Python · SQL
 
-**Data & Analytics**  
+**Data & Analytics**
 Pandas · NumPy · Excel · Power BI · Tableau · Matplotlib · Seaborn
 
-**Data Science & ML**  
+**Data Science & ML**
 Scikit-learn · Feature Engineering · Machine Learning · EDA
 
-**AI & Backend**  
+**AI & Backend**
 LangChain · AI Agents · FastAPI · REST APIs
 
-**Databases & Tools**  
+**Databases & Tools**
 MySQL · SQLite · Git · GitHub · Jupyter
 
 ---
@@ -62,11 +64,11 @@ MySQL · SQLite · Git · GitHub · Jupyter
 
 Working on:
 
-- REST APIs and webhook integrations
-- WhatsApp Cloud API
-- Automation workflows
-- Database debugging and testing
-- AI-powered recruitment workflows
+* REST APIs and webhook integrations
+* WhatsApp Cloud API
+* Automation workflows
+* Database debugging and testing
+* AI-powered recruitment workflows
 
 ---
 
@@ -80,10 +82,19 @@ Also exploring:
 
 ---
 
+## 🧩 Coding Practice
+
+Actively practicing problem-solving and strengthening my skills in:
+
+* 🟢 **LeetCode** — SQL, Pandas, and Data Structures
+* 🟩 **HackerRank** — SQL and programming challenges
+
+---
+
 <div align="center">
 
 ### Let's connect and build something meaningful with data 🚀
 
-[LinkedIn](https://www.linkedin.com/in/lavanya-lavanya-4a3103296/) · [HackerRank](https://www.hackerrank.com/profile/lavanyanikki720) · [Email](mailto:lavanyanikki720@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/lavanya-lavanya-4a3103296/) · [LeetCode](https://leetcode.com/u/lavanya15nikki/) · [HackerRank](https://www.hackerrank.com/profile/lavanyanikki720) · [Email](mailto:lavanyanikki720@gmail.com)
 
 </div>
