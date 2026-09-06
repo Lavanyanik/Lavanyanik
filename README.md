@@ -84,6 +84,6 @@ Also exploring:
 
 ### Let's connect and build something meaningful with data 🚀
 
-[LinkedIn](https://www.linkedin.com/in/lavanya-lavanya-4a3103296/) · [HackerRank](https://www.hackerrank.com/profile/lavanyanikki720) · [Email](mailto:lavanyanikki720@gmail.com) · [Phone](tel:+918295948017)
+[LinkedIn](https://www.linkedin.com/in/lavanya-lavanya-4a3103296/) · [HackerRank](https://www.hackerrank.com/profile/lavanyanikki720) · [Email](mailto:lavanyanikki720@gmail.com)
 
 </div>
