@@ -11,6 +11,7 @@ Currently working as a **Software Engineer Intern**, building APIs, automation w
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/lavanya-lavanya-4a3103296/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge\&logo=hackerrank)](https://www.hackerrank.com/profile/lavanyanikki720)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/lavanya15nikki/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:lavanyanikki720@gmail.com)
 
 </div>
 
