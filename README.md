@@ -41,7 +41,7 @@ Currently working as a **Software Engineer Intern**, building APIs, automation w
 ## 🛠️ Stack
 
 **Languages**  
-Python · SQL · C++
+Python · SQL 
 
 **Data & Analytics**  
 Pandas · NumPy · Excel · Power BI · Tableau · Matplotlib · Seaborn
