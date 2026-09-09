@@ -2,7 +2,7 @@
 
 # Hi, I'm Lavanya 👋
 
-### Data Analytics | Data Science | Python & SQL
+### Data Science | Data Analytics | Python & SQL
 
 Building practical skills in **data analysis, visualization, machine learning, and data-driven solutions.**
 
