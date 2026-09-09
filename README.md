@@ -75,7 +75,7 @@ Working on:
 
 ## 📚 Currently Exploring
 
-`Data Analytics` · `SQL` · `Pandas` · `Power BI` · `Statistics` · `Machine Learning`
+`Data Science` · `Data Analytics` . `SQL` · `Power BI` · `Statistics` · `Machine Learning`
 
 Also exploring:
 
